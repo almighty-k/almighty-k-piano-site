@@ -109,7 +109,7 @@ export default function Home() {
         <PianoKeys />
       </div>
       <motion.div
-        className="relative aspect-video rounded-lg overflow-hidden shadow-2xl mb-8"
+        className="relative aspect-[3/4] md:aspect-video rounded-lg overflow-hidden shadow-2xl mb-8"
         whileHover={{ scale: 1.02 }}
         transition={{ type: "spring", stiffness: 300, damping: 10 }}
       >
