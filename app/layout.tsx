@@ -16,6 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://almighty-k-piano-site.vercel.app/"),
   title: "Almighty-K piano performance",
   description:
     "A simple site created by an engineer who plays piano as a hobby, using v0. Please enjoy my piano videos!",
