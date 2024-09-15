@@ -18,7 +18,7 @@ import { PianoKeys } from "@/components/piano-keys";
 
 const videos = [
   {
-    url: "https://www.youtube.com/watch?v=M2H3fg5Kup8",
+    url: "https://www.youtube.com/watch?v=psZIZJfmev8",
     title: 'Beethoven: Sonata No. 23  "Appassionata" 3rd Movement',
   },
   {
